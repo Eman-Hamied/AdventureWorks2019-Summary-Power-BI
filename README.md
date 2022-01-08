@@ -1,6 +1,10 @@
 # AdventureWorks2019 Data Warehouse Insights
-I used in this project AdventureWorks2019 Data Warehouse and Power BI to build a dashboard for insights about the Finance Data Mart. I added multiple charts, security roles and page navigation.
+I used in this project AdventureWorks2019 Data Warehouse and Power BI to build a dashboard for insights about the Finance Data Mart
+https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms. 
+I added multiple charts, security roles and page navigation.
 This is a four hour project during ITI BI Track.
+
+
 ![image](https://user-images.githubusercontent.com/76844909/148648090-c1f8254c-a67d-45b6-b6c2-ded8a555bbce.png)
 ![image](https://user-images.githubusercontent.com/76844909/148648096-adea1242-bf1b-4b9b-b3d7-997916de7eae.png)
 ![image](https://user-images.githubusercontent.com/76844909/148648108-36000c69-b2ff-4691-b5fb-5ac00e1fdbd0.png)
